@@ -1,6 +1,6 @@
 # Metric_Converter-Yesha-IONIC
 
-# Tugas A01. Metric Converter berbasis Ionic
+Tugas A01. Metric Converter berbasis Ionic
 
 Repositori ini dibuat untuk memenuhi Tugas Pembuatan Aplikasi Mobile berbasis Ionic pada Mata Kuliah Pilihan Pengembangan Aplikasi Mobile. </br>
 </br>
